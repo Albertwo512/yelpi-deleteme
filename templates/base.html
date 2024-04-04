@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+
+<body>
+    <form method="POST">
+        <input type="text" name='location' placeholder="Tequila, Jalisco">
+        <button type="submit">Search</button>
+
+    </form>
+
+    
+    <h1>
+    {% if location %}
+        User location: {{location}}
+    {% else %}
+        Default location: Tequila, Jalisco    
+    {% endif %}
+    </h1>
+    
+        <h1>
+        Welcome
+        </h1>
+</body>
