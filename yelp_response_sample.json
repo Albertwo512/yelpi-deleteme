@@ -1,0 +1,404 @@
+{
+    "businesses": [
+        {
+            "id": "ZhuxHjHcEDzcRRlncf7hfA",
+            "alias": "tacos-el-chino-tequila",
+            "name": "Tacos el Chino",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jaEMP3hzZUINifZqDvBBYA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tacos-el-chino-tequila?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 20.8827801,
+                "longitude": -103.8349304
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "Av. Sixto Gorj\u00f3n 135",
+                "address2": "Col. Centro",
+                "address3": "",
+                "city": "Tequila",
+                "zip_code": "46400",
+                "country": "MX",
+                "state": "JAL",
+                "display_address": [
+                    "Av. Sixto Gorj\u00f3n 135",
+                    "Col. Centro",
+                    "46400 Tequila, Jalisco",
+                    "Mexico"
+                ]
+            },
+            "phone": "+523747424882",
+            "display_phone": "+52 374 742 4882",
+            "distance": 1014.2047242885873
+        },
+        {
+            "id": "pGDb-okRw7lSrD-w3vbFfg",
+            "alias": "chivo-y-vaca-tequila",
+            "name": "Chivo y Vaca",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m9C0S7H2gl97b0-HMfE_ZA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chivo-y-vaca-tequila?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 20.8842843,
+                "longitude": -103.8396018
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Jes\u00fas Rodr\u00edguez de Hijar 17",
+                "address2": "Col. Centro",
+                "address3": null,
+                "city": "Tequila",
+                "zip_code": "46400",
+                "country": "MX",
+                "state": "JAL",
+                "display_address": [
+                    "Jes\u00fas Rodr\u00edguez de Hijar 17",
+                    "Col. Centro",
+                    "46400 Tequila, Jalisco",
+                    "Mexico"
+                ]
+            },
+            "phone": "+523747420550",
+            "display_phone": "+52 374 742 0550",
+            "distance": 1500.3515452478664
+        },
+        {
+            "id": "GZvB3nGiAm8phg9dpPt4GA",
+            "alias": "mercado-de-comida-cleofas-mota-tequila",
+            "name": "Mercado De Comida Cleofas Mota",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fR9eSXG_QJTcH1HnL3v_kg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mercado-de-comida-cleofas-mota-tequila?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "farmersmarket",
+                    "title": "Farmers Market"
+                }
+            ],
+            "rating": 4.6,
+            "coordinates": {
+                "latitude": 20.8848341063758,
+                "longitude": -103.838191353775
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Ni\u00f1os Heroes 17",
+                "address2": "",
+                "address3": null,
+                "city": "Tequila",
+                "zip_code": "46400",
+                "country": "MX",
+                "state": "JAL",
+                "display_address": [
+                    "Ni\u00f1os Heroes 17",
+                    "46400 Tequila, Jalisco",
+                    "Mexico"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1386.207177359118
+        },
+        {
+            "id": "iUjUpryh43TBi8Eg-mmc5g",
+            "alias": "el-cheque-tequila-2",
+            "name": "El Cheque",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UU-pEGNxEuAVwaYRr3bjtg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/el-cheque-tequila-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 4.8,
+            "coordinates": {
+                "latitude": 20.8791103,
+                "longitude": -103.836937
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Emiliano Zapata 165",
+                "address2": "",
+                "address3": "",
+                "city": "Tequila",
+                "zip_code": "46403",
+                "country": "MX",
+                "state": "JAL",
+                "display_address": [
+                    "Emiliano Zapata 165",
+                    "46403 Tequila, Jalisco",
+                    "Mexico"
+                ]
+            },
+            "phone": "+523741039899",
+            "display_phone": "+52 374 103 9899",
+            "distance": 1247.2516795161152
+        },
+        {
+            "id": "IZNu-N1H005VUk_ewkta4A",
+            "alias": "el-fog\u00f3n-tequila-5",
+            "name": "El Fog\u00f3n",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O9pIq16TOyc0m_FRU5wQHw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/el-fog%C3%B3n-tequila-5?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 20.883859,
+                "longitude": -103.840749
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Calle Luis Navarro 55",
+                "address2": "Col. La Villa",
+                "address3": null,
+                "city": "Tequila",
+                "zip_code": "46400",
+                "country": "MX",
+                "state": "JAL",
+                "display_address": [
+                    "Calle Luis Navarro 55",
+                    "Col. La Villa",
+                    "46400 Tequila, Jalisco",
+                    "Mexico"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1625.8010844115954
+        },
+        {
+            "id": "m254MVw1Vn3kWrlVCxOcvw",
+            "alias": "casa-sauza-tequila",
+            "name": "Casa Sauza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SDbOkPNrg5FeCrga0A3E6w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/casa-sauza-tequila?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "distilleries",
+                    "title": "Distilleries"
+                }
+            ],
+            "rating": 3.8,
+            "coordinates": {
+                "latitude": 20.8861548,
+                "longitude": -103.8437895
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Calle Luis Navarro 80",
+                "address2": "",
+                "address3": null,
+                "city": "Tequila",
+                "zip_code": "46400",
+                "country": "MX",
+                "state": "JAL",
+                "display_address": [
+                    "Calle Luis Navarro 80",
+                    "46400 Tequila, Jalisco",
+                    "Mexico"
+                ]
+            },
+            "phone": "+523741005130",
+            "display_phone": "+52 374 100 5130",
+            "distance": 1751.2865569371882
+        },
+        {
+            "id": "qoaj9Qy9GnxbVoRkgdi4Og",
+            "alias": "fonda-cholula-tequila-2",
+            "name": "Fonda Cholula",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1f_7GSIoxHeZloKTgjPU7Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fonda-cholula-tequila-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+            "review_count": 44,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 2.7,
+            "coordinates": {
+                "latitude": 20.8853886684508,
+                "longitude": -103.839796399923
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "Calle Jos\u00e9 Cuervo 54",
+                "address2": "Col. Centro",
+                "address3": "",
+                "city": "Tequila",
+                "zip_code": "46400",
+                "country": "MX",
+                "state": "JAL",
+                "display_address": [
+                    "Calle Jos\u00e9 Cuervo 54",
+                    "Col. Centro",
+                    "46400 Tequila, Jalisco",
+                    "Mexico"
+                ]
+            },
+            "phone": "+523747421079",
+            "display_phone": "+52 374 742 1079",
+            "distance": 1563.138791271584
+        },
+        {
+            "id": "LpfRj5xOQOXId2clm7mtwg",
+            "alias": "real-marinero-tequila",
+            "name": "Real Marinero",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/r8ah0Km723cu-tHEvtENHA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/real-marinero-tequila?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+            "review_count": 23,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 20.8836027203756,
+                "longitude": -103.838497877506
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "Juarez 92",
+                "address2": "",
+                "address3": "",
+                "city": "Tequila",
+                "zip_code": "46400",
+                "country": "MX",
+                "state": "JAL",
+                "display_address": [
+                    "Juarez 92",
+                    "46400 Tequila, Jalisco",
+                    "Mexico"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1390.2795024977097
+        },
+        {
+            "id": "p-2ft1g6MCKTTyxyrMzvnA",
+            "alias": "la-jima-tequila-2",
+            "name": "La Jima",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yJXg68FF8S5b9PkrYg_l_Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-jima-tequila-2?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 20.8816639,
+                "longitude": -103.8375104
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "M\u00e9xico 138-A",
+                "address2": "Col. Zona Centro",
+                "address3": null,
+                "city": "Tequila",
+                "zip_code": "46400",
+                "country": "MX",
+                "state": "JAL",
+                "display_address": [
+                    "M\u00e9xico 138-A",
+                    "Col. Zona Centro",
+                    "46400 Tequila, Jalisco",
+                    "Mexico"
+                ]
+            },
+            "phone": "+523747424020",
+            "display_phone": "+52 374 742 4020",
+            "distance": 1272.3307716362797
+        },
+        {
+            "id": "Jya3dfwdDE5N06bRDzMijA",
+            "alias": "diferencia-tequila",
+            "name": "Diferencia",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/diferencia-tequila?adjust_creative=ZFGueaQ4T_xo3uirkn4M9Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZFGueaQ4T_xo3uirkn4M9Q",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 20.88454,
+                "longitude": -103.83948
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Jes\u00fas Rodr\u00edguez de Hijar 19",
+                "address2": "",
+                "address3": null,
+                "city": "Tequila",
+                "zip_code": "46400",
+                "country": "MX",
+                "state": "JAL",
+                "display_address": [
+                    "Jes\u00fas Rodr\u00edguez de Hijar 19",
+                    "46400 Tequila, Jalisco",
+                    "Mexico"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1496.5088558221396
+        }
+    ],
+    "total": 10,
+    "region": {
+        "center": {
+            "longitude": -103.82526397705078,
+            "latitude": 20.881746859216776
+        }
+    }
+}
